@@ -1,7 +1,6 @@
 # Virtual Machine-VM
----
 ### Requirements for creating VM from portal
----
+
 1. Subscription: (freeTrial, pay-as-you-go, students)
 2. Resource group: 
 3. VM Name:
