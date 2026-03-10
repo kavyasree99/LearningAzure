@@ -13,7 +13,7 @@
 9. Authentication type: password/SSH
 
 ---
-##Defination:
+## Defination:
 - **Resource group:** A **Resource Group** in Azure is a logical container for resources that share the same lifecycle, permissions, and policies. It helps you organize and manage related Azure resources efficiently. Resources within a group can be deployed, updated, and deleted together as a single management unit.
 
 - **Types of sizes:** 
