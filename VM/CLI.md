@@ -1,3 +1,10 @@
+## Install Azure CLI
+
+### Installation Overview
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+
+---
+
 ## Create VM using Azure CLI
 
 ### Start with creating a Resource Group
